@@ -9,7 +9,7 @@
   "dependencies": {
     "iconv-lite": "^0.4.4",
     "jspack": "^0.0.3",
-    "pngjs": "^0.4.0",
+    "pngjs": "3.0.1",
     "parse-engine-data": "^0.1.2"
   },
   "devDependencies": {},
