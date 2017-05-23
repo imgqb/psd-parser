@@ -7,9 +7,9 @@
     "example": "example"
   },
   "dependencies": {
-    "iconv-lite": "^0.4.4",
-    "jspack": "^0.0.3",
-    "pngjs": "^0.4.0",
+    "iconv-lite": "^0.4.17",
+    "jspack": "^0.0.4",
+    "pngjs": "^3.2.0",
     "parse-engine-data": "^0.1.2"
   },
   "devDependencies": {},
